@@ -1,0 +1,29 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igregor/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars",
+    "egghead",
+    "tutorial"
+  ],
+  "author": "Grzegorz Wojtanowicz <wojtanowiczgrzegorz@gmail.com> (http://igregor.pl/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igregor/starwars-names/issues"
+  },
+  "homepage": "https://github.com/igregor/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
